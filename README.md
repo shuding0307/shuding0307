@@ -1,6 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;)](https://git.io/typing-svg)
 
+![React](https://img.shields.io/badge/React?style=flat&logo=react&labelColor=black&color=skyblue)
+
+
 <!--
 **shuding0307/shuding0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
