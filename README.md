@@ -1,6 +1,5 @@
-### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;)](https://git.io/typing-svg)
 
 <!--
 **shuding0307/shuding0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
