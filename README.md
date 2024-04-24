@@ -1,6 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;)](https://git.io/typing-svg)
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
+
 
 
 
