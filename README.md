@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;)](https://git.io/typing-svg)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h3>📚 STACKS</h3></div>
 <div align=center>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <br>
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=reactnative&logoColor=white">
     <img src="https://img.shields.io/badge/next.js-8D5A9E?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     
