@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/next.js-8D5A9E?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/zustand-4479A1?style=for-the-badge&logo=zustand&logoColor=white">
 
 </div>
 
