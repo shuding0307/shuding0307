@@ -22,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=transparent">
 </div>
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shuding)](https://solved.ac/shuding/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shuding)]
 
 
 
