@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/next.js-8D5A9E?style=for-the-badge&logo=next.js&logoColor=white">
 </div>
 
-<div align=center>
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuding0307&layout=compact&theme=transparent"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=transparent">
 </div>
