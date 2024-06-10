@@ -23,7 +23,7 @@
 </div>
 
 <p>🏆 Baekjoon solved Rank 🏆</p>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shuding)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shuding)](https://solved.ac/shuding/)
 
 </div>
 
