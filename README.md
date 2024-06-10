@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Suhyeon_Lee&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;)
 
-
+<hr/>
 <div align=center><h3>📚 STACKS</h3></div>
 <div align=center>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -16,13 +16,13 @@
     <img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/next.js-8D5A9E?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/reactQuery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
-<br/>
+<hr/>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=transparent" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuding0307&layout=compact&theme=transparent" >
 
 </div>
-
+<hr/>
 <h3>🏆 Baekjoon solved Rank 🏆</h3>
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shuding)
