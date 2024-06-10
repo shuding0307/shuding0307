@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=thundevistan&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Suhyeon_Lee&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;)](https://git.io/typing-svg)
 
