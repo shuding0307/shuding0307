@@ -15,16 +15,17 @@
 <br/>
     <img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/next.js-8D5A9E?style=for-the-badge&logo=next.js&logoColor=white">
-</div>
+
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuding0307&layout=compact&theme=transparent"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=transparent">
 </div>
 
-<p>🏆 Baekjoon solved Rank 🏆</p>
+<h3>🏆 Baekjoon solved Rank 🏆</h3>
 <div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shuding)](https://solved.ac/shuding/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shuding)(https://solved.ac/shuding/)
+</div>
 </div>
 
 
