@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Suhyeon_Lee&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;)
 
 
 
@@ -19,7 +19,7 @@
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuding0307&layout=compact&theme=tokyonight"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=transparent">
 </div>
 
 
