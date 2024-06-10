@@ -16,11 +16,11 @@
     <img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/next.js-8D5A9E?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/reactQuery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
-
-
+<br/>
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuding0307&layout=compact&theme=transparent" width=56%>
-<img src="https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=transparent">
-
+<img src="https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=transparent" width=38%>
+</div>
 
 <h3>🏆 Baekjoon solved Rank 🏆</h3>
 
