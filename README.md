@@ -23,9 +23,9 @@
 </div>
 
 <h3>🏆 Baekjoon solved Rank 🏆</h3>
-<div>
+
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shuding)(https://solved.ac/shuding/)
-</div>
+
 </div>
 
 
