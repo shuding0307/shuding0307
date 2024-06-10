@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Suhyeon_Lee&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;)](https://git.io/typing-svg)
+<div align=center>
+    ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Suhyeon_Lee&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github;)](https://git.io/typing-svg)
+</div>
 
 <div align=center><h3>📚 STACKS</h3></div>
 <div align=center>
@@ -14,18 +15,12 @@
 <br/>
     <img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/next.js-8D5A9E?style=for-the-badge&logo=next.js&logoColor=white">
-
 </div>
 
-
-<div>
-
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuding0307&layout=compact&theme=tokyonight"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=tokyonight">
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
-
-
 
 
 
