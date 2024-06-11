@@ -3,6 +3,8 @@
 
 <div align=center>
     ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome_to_my_github)
+    </div>
+    <div align=center>
     <h3>📚 STACKS</h3>
 </div>
 <div align=center>
