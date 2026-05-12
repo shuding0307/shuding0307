@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Suhyeon_Lee&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 <div align=center>
 
-<h3>🎨 FRONTEND</h3>
+## 🎨 FRONTEND
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<h3>⚙️ BACKEND</h3>
+## ⚙️ BACKEND
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -25,18 +25,18 @@
 
 <br/><br/>
 
-<h3>🤖 AI / ML</h3>
+## 🤖 AI / ML
 
 <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=semanticweb&logoColor=white">
 
 <br/><br/>
 
-<h3>📊 STATS</h3>
+## 📊 STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=transparent" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuding0307&layout=compact&theme=transparent" >
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuding0307&layout=compact&theme=transparent)
 
 </div>
 
