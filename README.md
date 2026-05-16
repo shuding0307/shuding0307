@@ -30,13 +30,6 @@
 <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=semanticweb&logoColor=white">
 
-<br/><br/>
-
-## 📊 STATS
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shuding0307&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuding0307&layout=compact&theme=transparent)
 
 </div>
 
