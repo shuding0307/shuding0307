@@ -28,4 +28,4 @@ I build web apps with **React, Next.js and TypeScript**, through 9 team projects
 <br/>
 <img src="https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-[LinkedIn](https://www.linkedin.com/in/suhyeon-lee-71a74539a/)
+[LinkedIn](https://www.linkedin.com/in/suhyeon-lee-2sssu/)
