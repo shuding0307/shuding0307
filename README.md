@@ -16,7 +16,7 @@ I build web apps with **React, Next.js and TypeScript**, through 9 team projects
 
 | Project | What it is | My role |
 | --- | --- | --- |
-| [VSGG](https://github.com/shuding0307/VSGG-FE) · [live](https://vsgg.co.kr/) | Community for voting on LoL game-play clips | Frontend, 2+ years, 387 of 1,093 commits; mobile Lighthouse 82 → 97 |
+| [VSGG](https://github.com/shuding0307/VSGG-FE) · [website](https://vsgg.co.kr/) | Community for voting on LoL game-play clips | Frontend, 2+ years, 387 of 1,093 commits; mobile Lighthouse 82 → 97 |
 | [PlanU](https://github.com/shuding0307/PlanU-FE/tree/dev) | Group scheduling app with real-time chat | Team lead & frontend: real-time group chat |
 | [FatePet](https://github.com/shuding0307/fatepet-fe/tree/dev) | Pet funeral service marketplace · 🏆 Excellence Award 2025 | Frontend: business registration and edit flow |
 | [Molip](https://github.com/Swyp-team10/molip-front) | Team lunch menu voting app | Frontend, 112 of 398 commits |
