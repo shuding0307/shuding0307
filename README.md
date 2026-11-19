@@ -5,7 +5,7 @@
 ## Hi, I'm Suhyeon 👋
 
 I'm a frontend developer who enjoys turning ideas into working products.
-I build web apps with **React, Next.js and TypeScript**, through 9 team projects and a frontend internship at Douzone Bizon.
+I build web apps with **React, Next.js and TypeScript**, through 9 team projects.
 
 - 🚀 Maintained one live product for 2+ years and raised its mobile Lighthouse score from 82 to 97
 - 🤝 Led 3 of my 9 team projects, from planning features to coordinating with design and backend
