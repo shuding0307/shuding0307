@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Suhyeon_Lee&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
-**Product-minded Builder | Turning Ideas into Product | Frontend-focused Full-Stack Developer**
+**Junior Frontend Engineer, growing toward full-stack | React · Next.js · TypeScript · FastAPI**
 
 ## Hi, I'm Suhyeon 👋
 
