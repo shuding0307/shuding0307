@@ -30,4 +30,4 @@ I build web apps with **React, Next.js and TypeScript**, through 9 team projects
 **Familiar with**<br/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket_%28STOMP%2FSockJS%29-010101?style=for-the-badge&logoColor=white">
 
-[LinkedIn](https://www.linkedin.com/in/suhyeon-lee-2sssu/)
+[LinkedIn](https://www.linkedin.com/in/2sssu/)
